@@ -1,0 +1,12 @@
+.vscode/
+*.zip
+*.cpp
+*.cs
+*.hs
+*.java
+*.js
+*.kt
+*.py
+*.rb
+*.rs
+*.scala
