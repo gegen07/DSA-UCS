@@ -77,8 +77,6 @@ func loopThroughAllCoordinates(c []Coordinate, minY int, result *Signatures) []C
 		}
 	}
 
-	
-
 	return c
 }
 
