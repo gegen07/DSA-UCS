@@ -23,10 +23,8 @@ func max(x ... int) int {
 	return maxValue
 }
 
-/* LCS - Longest common subsequence Algorithm
-  Using three sequences
-*/
-
+//  LCS Longest common subsequence Algorithm
+//  Using three sequences
 func LCS(x1, x2, x3 []int, n1, n2, n3 int) int {
 
 	lcs := make([][][]int, n1)
